@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+  DataProcessing.cpp
+  Processing.cpp
+  statsCSV.cpp
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(95,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\ConsoleApplication1\statsCSV.cpp(170,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\Projects\Hackathon\TestApplicationDoxy\TestDoxyGen\Debug\ConsoleApplication1.exe

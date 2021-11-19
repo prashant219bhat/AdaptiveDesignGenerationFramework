@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_console_application1_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="ConsoleApplication1.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a6c2b35c38400048d5557b9977e291623"><param name="Name" value="DataProcessing"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a9a0b1dc4cb10d41daade39a447ec5fbd"><param name="Name" value="ParseCSV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#aab4c42eb1a8eb4bed95974911f574862"><param name="Name" value="getInputData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a1fd0df395be628684b5016dd1d3cbda2"><param name="Name" value="getprocessedData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#ab7b2082e7a7f8c27985de8b3fe1a378d"><param name="Name" value="readCSVfile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a215996d843fd7fa271b50bf46d89e604"><param name="Name" value="writeCSVfile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html"><param name="Name" value="DataProcessing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a18726872111284d1c50743224234ab2a"><param name="Name" value="~DataProcessing"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a9a0b1dc4cb10d41daade39a447ec5fbd"><param name="Name" value="ParseCSV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#aa4691b916c54dc017299762903fe6e5e"><param name="Name" value="Processing"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a0cdcb6a5d1d39c731e75f714c5b76053"><param name="Name" value="process"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#af06a2b1638aa28eff299f3ec4a7770bc"><param name="Name" value="processAlgo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#abbb953ea34c23c8e604041a94f7f2768"><param name="Name" value="processInputData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a8e162ec68d859fa78dc676fa6bde72ed"><param name="Name" value="processOutput"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html"><param name="Name" value="Processing"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a95dab1a596a090ab31a86259ac067d25"><param name="Name" value="~Processing"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ac9f132e33c1674a0f3d04fb7eaaf58a9"><param name="Name" value="computeHistogram"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a533181c0f6fd36205e4a0420f4351de1"><param name="Name" value="computeMaxVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ad06f0f16220a11e7f4acf82cf45d0a0e"><param name="Name" value="computeMeanVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a8a8833a85dfab05e9b46869f83047f86"><param name="Name" value="computeMinVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ac88754ba8c8b2c593125a5803031c5f6"><param name="Name" value="computeProbabilityDensity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a018010baa2d7c9d4f76c38b29b5a1bdc"><param name="Name" value="computeStandardDeviation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ae795be3ed8b8a59af982f7b06116a03a"><param name="Name" value="computeVariance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#aab4c42eb1a8eb4bed95974911f574862"><param name="Name" value="getInputData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a84ebbe7402c856198b924b3254386e0f"><param name="Name" value="getMaxVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#aec74748f145049d912a2c2b571f5e555"><param name="Name" value="getMeanVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a7c3b52c8258b53b31bf6a6d1a8f5b6fb"><param name="Name" value="getMinVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#aa770628c257fa054133b788b0ffe0b2a"><param name="Name" value="getStandardDeviation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a58ae2e2b2d197089f1db3c38f92f5ef2"><param name="Name" value="getVariance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a1fd0df395be628684b5016dd1d3cbda2"><param name="Name" value="getprocessedData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a574205a2f8cf88c17313548af45efa90"><param name="Name" value="histogram"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_console_application1_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a39bedc6453b2ce6c1d12029474f08c5b"><param name="Name" value="max"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a49764d1193475706da109f413757f107"><param name="Name" value="mean"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a6a294b6b3b3c65fcbad3cb73bffb3e75"><param name="Name" value="min"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#add2b0ed87dec88f994d2cc63a0f4e47b"><param name="Name" value="probabilityDensity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a0cdcb6a5d1d39c731e75f714c5b76053"><param name="Name" value="process"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#af06a2b1638aa28eff299f3ec4a7770bc"><param name="Name" value="processAlgo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#abbb953ea34c23c8e604041a94f7f2768"><param name="Name" value="processInputData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a8e162ec68d859fa78dc676fa6bde72ed"><param name="Name" value="processOutput"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#ab7b2082e7a7f8c27985de8b3fe1a378d"><param name="Name" value="readCSVfile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a627cdff86f1a68ec11b63ebd65a41b93"><param name="Name" value="standardDeviation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a574205a2f8cf88c17313548af45efa90"><param name="Name" value="histogram"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a39bedc6453b2ce6c1d12029474f08c5b"><param name="Name" value="max"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a49764d1193475706da109f413757f107"><param name="Name" value="mean"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a6a294b6b3b3c65fcbad3cb73bffb3e75"><param name="Name" value="min"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#add2b0ed87dec88f994d2cc63a0f4e47b"><param name="Name" value="probabilityDensity"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a627cdff86f1a68ec11b63ebd65a41b93"><param name="Name" value="standardDeviation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html"><param name="Name" value="stats"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a8cac15c0d31d93e6f6125e0c9711eb49"><param name="Name" value="variance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ac9f132e33c1674a0f3d04fb7eaaf58a9"><param name="Name" value="computeHistogram"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a533181c0f6fd36205e4a0420f4351de1"><param name="Name" value="computeMaxVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ad06f0f16220a11e7f4acf82cf45d0a0e"><param name="Name" value="computeMeanVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a8a8833a85dfab05e9b46869f83047f86"><param name="Name" value="computeMinVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ac88754ba8c8b2c593125a5803031c5f6"><param name="Name" value="computeProbabilityDensity"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a018010baa2d7c9d4f76c38b29b5a1bdc"><param name="Name" value="computeStandardDeviation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ae795be3ed8b8a59af982f7b06116a03a"><param name="Name" value="computeVariance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a84ebbe7402c856198b924b3254386e0f"><param name="Name" value="getMaxVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#aec74748f145049d912a2c2b571f5e555"><param name="Name" value="getMeanVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a7c3b52c8258b53b31bf6a6d1a8f5b6fb"><param name="Name" value="getMinVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#aa770628c257fa054133b788b0ffe0b2a"><param name="Name" value="getStandardDeviation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a58ae2e2b2d197089f1db3c38f92f5ef2"><param name="Name" value="getVariance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#a63413576080edbd17f6e393cfb15b907"><param name="Name" value="statsCSV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html"><param name="Name" value="statsCSV"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ae7bf0eda4d2df0ed44a14cb982dcf171"><param name="Name" value="~statsCSV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstats.html#a8cac15c0d31d93e6f6125e0c9711eb49"><param name="Name" value="variance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a215996d843fd7fa271b50bf46d89e604"><param name="Name" value="writeCSVfile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_processing.html#a18726872111284d1c50743224234ab2a"><param name="Name" value="~DataProcessing"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_processing.html#a95dab1a596a090ab31a86259ac067d25"><param name="Name" value="~Processing"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classstats_c_s_v.html#ae7bf0eda4d2df0ed44a14cb982dcf171"><param name="Name" value="~statsCSV"></OBJECT>
+</UL>
+</BODY>
+</HTML>

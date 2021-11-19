@@ -1,0 +1,53 @@
+@startuml inline_umlgraph_1.png
+!pragma layout smetana
+title __Data Processing Class Diagram__
+class DataProcessing
+{
+std::vector<int> inputData;
+std::vector<int> processedData;
+
+writeCSVfile()
+readCSVfile()
+ParseCSV()
+}
+@enduml
+@startuml inline_umlgraph_2.png
+!pragma layout smetana
+readCSVfile --> ParseCSV : CSV FIle path
+ParseCSV --> readCSVfile : Read successful
+@enduml
+@startuml inline_umlgraph_3.png
+!pragma layout smetana
+(*) --> "computeMinVal()"
+--> "computeMaxVal()"
+--> "computeMeanVal()"
+--> "computeVarianceVal()"
+--> "computeStandardDeviation()"
+--> "computeHistogram()"
+
+--> "computeProbabilityDensity()"
+
+--> (*)
+@enduml
+@startuml inline_umlgraph_4.png
+!pragma layout smetana
+class statsCSV
+{
+std::vector<int> csvData;
+stats statObject;
+
+computeMinVal()
+computeMaxVal()
+computeMeanVal()
+computeVariance()
+computeStandardDeviation();
+computeHistogram();
+}
+@enduml
+@startuml inline_umlgraph_5.png
+!pragma layout smetana
+(*) --> "Compute Mean value"
+--> "Compute Sum of square of differences
+i.e (x-mean)^2"
+--> (*)
+@enduml
